@@ -1,0 +1,14 @@
+----------------------------------------------------
+The remoteApi library could not be loaded. Make sure
+it is located in the same folder as "sim.py", or
+appropriately adjust the file "sim.py"
+----------------------------------------------------
+
+--------------------------------------------------------------
+"sim.py" could not be imported. This means very probably that
+either "sim.py" or the remoteApi library could not be found.
+Make sure both are in the same folder as this file,
+or appropriately adjust the file "sim.py"
+--------------------------------------------------------------
+
+Program started
